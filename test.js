@@ -10,11 +10,9 @@ function startGame() {
 	bnt1.style.color = '#0493ED';
 	bnt2.style.backgroundColor = '#0493ED';
 	bnt2.style.color = 'white';
-	const start = "start1";
 	}
 
 function xOrO(id) {
-	if (start = "start1") {
 		document.getElementById(id).style.display = 'block';
    		document.getElementById(id).onclick = null;
 
