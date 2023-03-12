@@ -22,7 +22,18 @@
   line-height: 200px;
 }
 
-#button {
+#bnt1 {
+  background-color: #0493ED;
+  border: 3px solid #0493ED;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+}
+
+#bnt2 {
   background-color: white;
   border: 3px solid #0493ED;
   color: #0493ED;
@@ -30,6 +41,5 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
-}
+  font-size: 18px;
 }
