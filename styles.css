@@ -1,0 +1,35 @@
+.cell{
+  background-color: #0493ED;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  font-size: 100px;
+  color: white;
+  text-align: center;
+  line-height: 200px;
+}
+#main{
+  min-height: 100%;
+  min-height: 100vh;
+ 
+  display: flex;
+  align-items: center;
+}
+#header{
+  font-size: 100px;
+  color: #0493ED;
+  text-align: center;
+  line-height: 200px;
+}
+
+#button {
+  background-color: white;
+  border: 3px solid #0493ED;
+  color: #0493ED;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+}
